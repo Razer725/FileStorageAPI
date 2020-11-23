@@ -1,0 +1,82 @@
+2020-11-23 18:36:23,054 INFO Creating socket tcp://localhost:8000
+2020-11-23 18:36:23,055 INFO Closing socket tcp://localhost:8000
+2020-11-23 18:36:23,055 INFO supervisord started with pid 8210
+2020-11-23 18:36:24,056 INFO Creating socket tcp://localhost:8000
+2020-11-23 18:36:24,059 INFO spawned: 'uvicorn-0' with pid 8212
+2020-11-23 18:36:24,062 INFO spawned: 'uvicorn-1' with pid 8213
+2020-11-23 18:36:24,062 INFO spawned: 'uvicorn-2' with pid 8214
+2020-11-23 18:36:24,063 INFO spawned: 'uvicorn-3' with pid 8215
+2020-11-23 18:36:25,189 INFO success: uvicorn-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 18:36:25,190 INFO success: uvicorn-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 18:36:25,190 INFO success: uvicorn-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 18:36:25,190 INFO success: uvicorn-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 18:38:22,243 WARN received SIGINT indicating exit request
+2020-11-23 18:38:22,243 INFO waiting for uvicorn-0, uvicorn-1, uvicorn-2, uvicorn-3 to die
+2020-11-23 18:38:22,417 INFO stopped: uvicorn-2 (exit status 0)
+2020-11-23 18:38:22,435 INFO stopped: uvicorn-3 (exit status 0)
+2020-11-23 18:38:22,450 INFO stopped: uvicorn-1 (exit status 0)
+2020-11-23 18:38:22,457 INFO stopped: uvicorn-0 (exit status 0)
+2020-11-23 18:38:22,457 INFO Closing socket tcp://localhost:8000
+2020-11-23 19:44:12,298 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:44:27,622 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:44:38,610 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:44:38,610 INFO Closing socket tcp://localhost:8000
+2020-11-23 19:44:38,610 INFO supervisord started with pid 13221
+2020-11-23 19:44:39,610 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:44:39,613 INFO spawned: 'uvicorn-0' with pid 13223
+2020-11-23 19:44:39,616 INFO spawned: 'uvicorn-1' with pid 13224
+2020-11-23 19:44:39,616 INFO spawned: 'uvicorn-2' with pid 13225
+2020-11-23 19:44:39,617 INFO spawned: 'uvicorn-3' with pid 13226
+2020-11-23 19:44:40,738 INFO success: uvicorn-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:40,739 INFO success: uvicorn-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:40,739 INFO success: uvicorn-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:40,739 INFO success: uvicorn-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:44,745 WARN received SIGINT indicating exit request
+2020-11-23 19:44:44,745 INFO waiting for uvicorn-0, uvicorn-1, uvicorn-2, uvicorn-3 to die
+2020-11-23 19:44:44,888 INFO stopped: uvicorn-0 (exit status 0)
+2020-11-23 19:44:44,888 INFO stopped: uvicorn-1 (exit status 0)
+2020-11-23 19:44:44,888 INFO stopped: uvicorn-2 (exit status 0)
+2020-11-23 19:44:44,888 INFO stopped: uvicorn-3 (exit status 0)
+2020-11-23 19:44:44,888 INFO Closing socket tcp://localhost:8000
+2020-11-23 19:44:46,760 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:44:46,760 INFO Closing socket tcp://localhost:8000
+2020-11-23 19:44:46,760 INFO daemonizing the supervisord process
+2020-11-23 19:44:46,761 INFO supervisord started with pid 13239
+2020-11-23 19:44:47,762 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:44:47,765 INFO spawned: 'uvicorn-0' with pid 13240
+2020-11-23 19:44:47,767 INFO spawned: 'uvicorn-1' with pid 13241
+2020-11-23 19:44:47,767 INFO spawned: 'uvicorn-2' with pid 13242
+2020-11-23 19:44:47,768 INFO spawned: 'uvicorn-3' with pid 13243
+2020-11-23 19:44:48,890 INFO success: uvicorn-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:48,890 INFO success: uvicorn-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:48,891 INFO success: uvicorn-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:44:48,891 INFO success: uvicorn-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 19:47:52,146 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:51:56,627 INFO Creating socket tcp://localhost:8000
+2020-11-23 19:59:49,696 INFO Creating socket tcp://localhost:8000
+2020-11-23 20:02:07,085 WARN received SIGTERM indicating exit request
+2020-11-23 20:02:07,085 INFO waiting for uvicorn-0, uvicorn-1, uvicorn-2, uvicorn-3 to die
+2020-11-23 20:02:07,208 INFO stopped: uvicorn-0 (exit status 0)
+2020-11-23 20:02:07,220 INFO stopped: uvicorn-2 (exit status 0)
+2020-11-23 20:02:07,244 INFO stopped: uvicorn-3 (exit status 0)
+2020-11-23 20:02:07,298 INFO stopped: uvicorn-1 (exit status 0)
+2020-11-23 20:02:07,298 INFO Closing socket tcp://localhost:8000
+2020-11-23 20:02:36,291 INFO Creating socket tcp://localhost:8000
+2020-11-23 20:02:36,291 INFO Closing socket tcp://localhost:8000
+2020-11-23 20:02:36,291 INFO supervisord started with pid 16245
+2020-11-23 20:02:37,292 INFO Creating socket tcp://localhost:8000
+2020-11-23 20:02:37,295 INFO spawned: 'uvicorn-0' with pid 16248
+2020-11-23 20:02:37,298 INFO spawned: 'uvicorn-1' with pid 16249
+2020-11-23 20:02:37,299 INFO spawned: 'uvicorn-2' with pid 16250
+2020-11-23 20:02:37,299 INFO spawned: 'uvicorn-3' with pid 16251
+2020-11-23 20:02:38,422 INFO success: uvicorn-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 20:02:38,422 INFO success: uvicorn-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 20:02:38,422 INFO success: uvicorn-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 20:02:38,423 INFO success: uvicorn-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 20:02:41,426 WARN received SIGINT indicating exit request
+2020-11-23 20:02:41,427 INFO waiting for uvicorn-0, uvicorn-1, uvicorn-2, uvicorn-3 to die
+2020-11-23 20:02:41,567 INFO stopped: uvicorn-0 (exit status 0)
+2020-11-23 20:02:41,567 INFO stopped: uvicorn-1 (exit status 0)
+2020-11-23 20:02:41,567 INFO stopped: uvicorn-2 (exit status 0)
+2020-11-23 20:02:41,567 INFO stopped: uvicorn-3 (exit status 0)
+2020-11-23 20:02:41,567 INFO Closing socket tcp://localhost:8000
